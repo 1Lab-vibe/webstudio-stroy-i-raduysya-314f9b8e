@@ -1,2 +1,3 @@
-# webstudio-stroy-i-raduysya-314f9b8e
-Web Studio landing for Строй и Радуйся
+# Welcome to your Lovable project
+
+TODO: Document your project here
